@@ -40,3 +40,4 @@ console.log(__filename);
 //Creating our own global variable
 global.my__name = "Indresh";
 console.log(my__name);
+
