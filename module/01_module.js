@@ -4,7 +4,7 @@ Modules are reusable block of code that has a specific usecase or functionality
 A module may contain - varibale , function , classes , objects or any other code that can fulfill a particular task or function 
 
 //What is the purpose of using modules 
-The primary purpose fo using modules is to organise our code into smaller managable parts.
+The primary purpose of using modules is to organise our code into smaller managable parts.
 Modules can be imported anytime and can be used flexibly across multiple projects as reusable units 
 
 
@@ -21,7 +21,7 @@ So you, being a clever programmer, thought of making a separate file for the JSO
 function sayHello(name){
     console.log(`Hello ${name}`);
 }
-module.exports = sayHello
+module.exports = sayHello;
 
 
 //In the above step we have created a module that is in the file module.js and this module contains a function whose parameter is a name . The main functionaity of this module is to greet someone when when it is called and give a name . Once the function is created we have used the module.export = sayHello to access it in other files .

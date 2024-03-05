@@ -13,10 +13,8 @@ The using__module.js file imports the sayHello() function from module.js and sto
 //requiring from module.js
 
  const sayHello = require('/Users/indreshmr/Developer/Node-js/module/01_module');
- sayHello('Indresh');
- sayHello('Rohan');
-
-
+sayHello("Indresh")
+sayHello("Rohan")
 
 
 //requiring from module.export.js
@@ -27,7 +25,7 @@ The using__module.js file imports the sayHello() function from module.js and sto
 
 
 
- 
+
 
  //requiring from exporting_many_fns.js
  const multipleFns = require('./04.exporting_many_fns');
