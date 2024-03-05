@@ -31,9 +31,17 @@ In this example, we first export fn1(). But we then overwrite module.exports wit
  function fn2(){
      console.log("Hello from function 2");
  }
+ const abc = {
+    lang : "nodejs",
+    editor : "vscode",
+ }
  //first export
  module.exports = fn1
  //Second export
  module.exports = fn2
+ //third export
+ module.exports = abc
+ 
+ 
 
 

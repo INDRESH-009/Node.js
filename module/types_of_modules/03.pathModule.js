@@ -98,4 +98,5 @@ console.log(path.join('grandParentFolder', 'parentFolder', 'child.txt'))
 */
 console.log(path.resolve('grandParentFolder', 'parentFolder', 'child.txt'));
 
-//The absolute path and the path of the current directory appends with the given path as strings and provides the absolute path for the file . 
+//The absolute path and the path of the current directory appends with the given path as strings and provides the absolute path for the file as 
+// /Users/indreshmr/Developer/Node-js/grandParentFolder/parentFolder/child.txt
