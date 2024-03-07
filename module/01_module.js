@@ -2,6 +2,7 @@
 /*
 Modules are reusable block of code that has a specific usecase or functionality 
 A module may contain - varibale , function , classes , objects or any other code that can fulfill a particular task or function 
+Every file is a module in itself
 
 //What is the purpose of using modules 
 The primary purpose of using modules is to organise our code into smaller managable parts.

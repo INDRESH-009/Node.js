@@ -1,6 +1,6 @@
 //What is nodejs
 /*
-Node is a way we can run javascript outside the browser. The nodejs is a javascript runtime that uses the googles V8 engine . Since it is javascript runtime outside the browser we cant get the functionalities like DOM , window object ,local storage and WebAPI like geolocation etc. We also cant write document.queryselector() or alert() beacuse they can only be used when js is in the browser. 
+Node is a way we can run javascript outside the browser. The nodejs is a javascript runtime that uses the google's V8 engine . Since it is javascript runtime outside the browser we cant get the functionalities like DOM , window object ,local storage and WebAPI like geolocation etc. We also cant write document.queryselector() or alert() beacuse they can only be used when js is in the browser. 
 
 nodejs was created and it was taking JS out of the browser and make it able to be mainstream language to interact with the system resources like Files, IO and Network operations.
 
